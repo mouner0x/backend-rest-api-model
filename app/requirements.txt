@@ -5,3 +5,15 @@ pydantic-settings>=2.2.1
 python-jose[cryptography]>=3.3.0
 passlib[bcrypt]>=1.7.4
 python-multipart>=0.0.9
+fastapi
+uvicorn
+motor
+pymongo
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+python-jose
+passlib[bcrypt]
+bcrypt
