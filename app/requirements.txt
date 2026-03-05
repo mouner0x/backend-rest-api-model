@@ -1,0 +1,7 @@
+fastapi[standard]>=0.110.0
+motor>=3.3.2
+pydantic>=2.6.4
+pydantic-settings>=2.2.1
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.9
